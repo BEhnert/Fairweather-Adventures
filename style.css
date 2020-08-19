@@ -1,3 +1,6 @@
+body {
+  background: #bcc3ab;
+}
 header {
   padding-bottom: 75px;
   background: url(https://i.guim.co.uk/img/media/40726e71dd6c284881900d36bfc521182c95c31b/0_0_5537_3324/master/5537.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=57aa7884e1ae183573525db7aba3124d);
@@ -66,7 +69,7 @@ footer {
 
 /* Reduce displayed image */
 #images {
-  width: 12%;
+  width: 14%;
   height: auto;
 }
 h3 {
